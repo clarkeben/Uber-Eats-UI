@@ -15,5 +15,5 @@ The following guide will help you get started and download the repo:
 
 ## Requirements
 * Xcode 9
-* iOS 10+
-* Swift 4
+* iOS 13+
+* Swift 5
